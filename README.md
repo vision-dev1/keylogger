@@ -44,7 +44,7 @@ This is a comprehensive, ethical keylogger and activity monitoring tool designed
 ![Test Image 1](https://github.com/vision-dev1/keylogger/blob/be64f85b061adcf90349d5f68be8ebf3de244d88/keylogger-test1.png)
 
 
-![Test Keylogger 2](test-keylogger2.png)
+![Test Keylogger 2](https://github.com/vision-dev1/keylogger/blob/f986bad6f97a92433fde23ff35978e459f14e9d6/key-loggertest2.png)
 
 ## Running the Keylogger
 
