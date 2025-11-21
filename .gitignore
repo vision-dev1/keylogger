@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Database and key files
+keylogs.db
+secret.key
+*.key
+
+# Log files
+*.log
+keylogger.log
+
+# Exported files
+keyloggerexport.txt
+
+# Screenshots
+screenshots/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

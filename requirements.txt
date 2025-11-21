@@ -1,0 +1,4 @@
+pynput>=1.7.6
+cryptography>=3.4.8
+psutil>=5.8.0
+flask>=2.0.1
